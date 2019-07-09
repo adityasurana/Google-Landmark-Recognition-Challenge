@@ -8,3 +8,7 @@ Another problem we faced is that we were given image URL's, so first we wrote th
 
 Now we seperated these folders into 3 parts train(80%), test(10%) and validation(10%) using python script [folder_splitting.py](https://github.com/adityasurana/Google-Landmark-Recognition-Challenge/blob/master/folder_splitting.py)
 
+
+Top 30classes Train Data:-
+![1_aeLjNvJHE1g4HDR5Wp-Cag](https://user-images.githubusercontent.com/39646018/60911074-01ca1a00-a2a0-11e9-846b-953727dcd80b.png)
+
