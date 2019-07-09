@@ -13,3 +13,5 @@ Top 30classes Train Data:-
 
 ![1_aeLjNvJHE1g4HDR5Wp-Cag](https://user-images.githubusercontent.com/39646018/60911074-01ca1a00-a2a0-11e9-846b-953727dcd80b.png)
 
+**After manually scrubbing, we observed that many test images have no landmarks and some have more than one landmark in them.**
+
