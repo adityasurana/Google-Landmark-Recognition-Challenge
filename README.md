@@ -7,6 +7,7 @@ We have to classify these landmarks from (15 Thousand!) different classes of lan
 Another problem we faced is that we were given image URL's, so first we wrote the python script for downloading the images from those URL's and place them into their respective classes.
 
 Now we seperated these folders into 3 parts train(80%), test(10%) and validation(10%) using python script [folder_splitting.py](https://github.com/adityasurana/Google-Landmark-Recognition-Challenge/blob/master/folder_splitting.py)
+
 Top 30classes Train Data:-
 
 
