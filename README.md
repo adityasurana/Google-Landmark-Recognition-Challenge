@@ -24,3 +24,7 @@ Our first modeling approach was ResNet50, a pre-trained convolutional neural net
    ResNet50 is a residual learner, meaning it tries to learn from the residuals as opposed to only learning the contributing features
 
 2) This model aims to solve the oversaturation issue that many neural nets face as network depth increases.
+
+In simple words, ResNet50 subtracts feature information from the input of a layer to learn about the residuals. ResNet50 is a 50 layer Residual Network. 
+
+
