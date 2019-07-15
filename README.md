@@ -15,3 +15,12 @@ Top 30classes Train Data:-
 
 **After manually scrubbing, we observed that many test images have no landmarks and some have more than one landmark in them.**
 ![1_UCNb0_y6qvpzBx9FfRCyMA](https://user-images.githubusercontent.com/39646018/60911605-325e8380-a2a1-11e9-8da6-f37fe3bbf597.png)
+
+# ResNet 50
+
+Our first modeling approach was ResNet50, a pre-trained convolutional neural network that is trained on the ImageNet database.
+
+1) The reason we started with this model is twofold:
+   ResNet50 is a residual learner, meaning it tries to learn from the residuals as opposed to only learning the contributing features
+
+2) This model aims to solve the oversaturation issue that many neural nets face as network depth increases.
