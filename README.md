@@ -26,5 +26,7 @@ Our first modeling approach was ResNet50, a pre-trained convolutional neural net
 2) This model aims to solve the oversaturation issue that many neural nets face as network depth increases.
 
 In simple words, ResNet50 subtracts feature information from the input of a layer to learn about the residuals. ResNet50 is a 50 layer Residual Network. 
-
+ 
+# VGG-16
+VGG16, is perhaps one of the most popular convolutional net that is used for Transfer Learning using Keras. It is a 16-layer Covnet used by the Visual Geometry Group (VGG) at Oxford University in the 2014 ILSVRC (ImageNet) competition. 
 
