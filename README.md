@@ -30,3 +30,6 @@ In simple words, ResNet50 subtracts feature information from the input of a laye
 # VGG-16
 VGG16, is perhaps one of the most popular convolutional net that is used for Transfer Learning using Keras. It is a 16-layer Covnet used by the Visual Geometry Group (VGG) at Oxford University in the 2014 ILSVRC (ImageNet) competition. 
 
+![0_xJBpXtKndb_WXfSq](https://user-images.githubusercontent.com/39646018/61392041-a02b3080-a8db-11e9-92b2-834331d9829e.png)
+
+
