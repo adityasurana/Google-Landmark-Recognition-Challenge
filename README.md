@@ -1,3 +1,7 @@
+# Introduction
+
+Did you ever go through your vacation photos and ask yourself: What is the name of this temple I visited in China? Who created this monument I saw in France? Landmark recognition can help! This technology can predict landmark labels directly from image pixels, to help people better understand and organize their photo collections.
+
 # Problem and Approach
 The dataset we worked on is derived from the Google Landmark Recognition Challenge that took place on Kaggle. The challenge at hand was to build models that classify the images provided in such a way that it matches the correct landmark with each unique image.
 ![Google Landmark Recognition_Challenge](https://user-images.githubusercontent.com/39646018/60909844-e7427180-a29c-11e9-84c3-4247cf61e4da.png)
